@@ -11,7 +11,7 @@
 
 - 💬 Ask me about: Android, React Native, Building Career In Tech, Content Creation, FinTech, Analytics
 
-- 📫 How to reach me: [@Ragavendra](https://twitter.com/Ragav_Offl)
+<!-- - 📫 How to reach me: [@Ragavendra](https://twitter.com/Ragav_Offl) -->
 
 
 <!-- About section: END -->
